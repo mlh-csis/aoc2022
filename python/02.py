@@ -4,6 +4,7 @@ scissors = 3
 lose = 0
 draw = 3
 win = 6
+
 STRATEGY_A = {
     "A X": rock+draw, # rock rock
     "A Y": paper+win, # rock paper
